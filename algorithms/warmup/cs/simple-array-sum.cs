@@ -1,3 +1,4 @@
- static int simpleArraySum(int[] ar) {
-        return ar.Sum();
-    }
+static int simpleArraySum(int[] ar)
+{
+    return ar.Sum();
+}
